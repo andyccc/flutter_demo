@@ -3,9 +3,6 @@ import Flutter
 import UserNotifications
 import AdSupport
 
-//#import "JPUSHService.h"
-//#import <UserNotifications/UserNotifications.h>
-
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {
     override func application(
